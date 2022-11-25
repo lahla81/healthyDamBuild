@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0224f9f2.css",
+    "main.js": "/static/js/main.0923e0ed.js",
+    "static/media/NotoSansArabic.ttf": "/static/media/NotoSansArabic.0bff71d9b37001e42b93.ttf",
+    "static/media/JuiceCover.png": "/static/media/JuiceCover.26aae3f434cc1d8941b5.png",
+    "static/media/ice-cream.jpeg": "/static/media/ice-cream.141963d000d85e42a394.jpeg",
+    "static/media/LuckiestGuy-Regular.ttf": "/static/media/LuckiestGuy-Regular.04dea529d3802106e6d7.ttf",
+    "static/media/logo-background-center.jpg": "/static/media/logo-background-center.18921fb970653fc6e15e.jpg",
+    "static/media/tot-yogurt.jpg": "/static/media/tot-yogurt.7d02e152618ab33ea760.jpg",
+    "static/media/samna.jpg": "/static/media/samna.466558c3ff1abbf2052f.jpg",
+    "static/media/milk.jpg": "/static/media/milk.5daa09395e18957527ae.jpg",
+    "static/media/rayeb-850.jpg": "/static/media/rayeb-850.014e2165dfb5761f4cfb.jpg",
+    "static/media/shopping-bag.svg": "/static/media/shopping-bag.a688874f6f1507316bdfa420328a4a53.svg",
+    "index.html": "/index.html",
+    "main.0224f9f2.css.map": "/static/css/main.0224f9f2.css.map",
+    "main.0923e0ed.js.map": "/static/js/main.0923e0ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0224f9f2.css",
+    "static/js/main.0923e0ed.js"
+  ]
+}
